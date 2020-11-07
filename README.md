@@ -14,4 +14,5 @@
 🏃 目前正參加機器學習百日馬拉松專家陪跑計劃增加自己基礎。
 
 ### 聯絡資訊
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+](https://www.linkedin.com/in/%E7%9D%BF%E7%99%BB-%E9%BB%83-b0130b1b4/ "link")
